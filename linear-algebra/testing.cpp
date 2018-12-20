@@ -1,5 +1,3 @@
-
-
 #include "pch.h"
 #include "detarminant.h"
 #include "fraction.h"
